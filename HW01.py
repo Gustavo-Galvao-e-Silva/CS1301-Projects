@@ -27,7 +27,7 @@ def weekOfWelcome() -> None:
 
     _print_formatted_week_of_welcome(event_day_of_week, event_time, event_location, event_club_name)
 
-    
+
 #########################################
 
 """
